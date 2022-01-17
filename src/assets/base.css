@@ -1,0 +1,32 @@
+body,ul,h2,h4,h3,p,h1,input,button{
+  margin: 0;
+  padding: 0;
+}
+img{
+  border: 0;
+}
+button{
+  border: none;
+}
+span{
+  border: 0;
+  padding: 0;
+}
+/*html{*/
+/*  font-size: 10px;*/
+/*}*/
+body{
+  font-family: "微软雅黑";
+  /*background: #666666;*/
+}
+ul,li {
+  list-style: none;
+
+}
+
+a{
+  color: #333;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
